@@ -24,7 +24,7 @@ Blood Queen Bite Manager é um addon para World of Warcraft projetado para ajuda
 
 ## Feedback e Suporte
 
-- Por favor, relate quaisquer problemas ou sugestões na página do addon no [CurseForge](https://www.curseforge.com/).
+- Por favor, relate quaisquer problemas ou sugestões na página do addon no [CurseForge](https://legacy.curseforge.com/wow/addons/blood-queen-bite-manager).
 
 ## Licença
 
