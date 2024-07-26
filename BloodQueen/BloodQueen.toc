@@ -1,0 +1,9 @@
+## Interface: 40000
+## Author:  Beeka Versions
+## Title: Blood Queen Bite Manager
+## Notes: Addon para gerenciar a mordida da Blood Queen
+## Version : 1.0.8
+## SavedVariables: BloodQueen_List, BloodQueen_Profile, BloodQueen_Config, BloodQueen_Difficulty, BloodQueen_Version, BloodQueen_Run, BloodQueen_Icon, BloodQueen_RaidList, BloodQueen_TestRaidList
+Localization.lua
+BloodQueen.xml
+
